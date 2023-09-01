@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git config --global --list
 
 git init NewFolderName
@@ -17,3 +18,24 @@ git commit -m "This is the First Commit of the Branch"
 git remote add origin https://github.com/AkashRashmin/ActivityOne.git
 
 git push -u origin main
+=======
+git config --global --list
+
+git init NewFolderName
+
+or
+
+git init
+
+git branch -m main
+
+git branch
+
+git add .
+
+git commit -m "This is the First Commit of the Branch"
+
+git remote add origin https://github.com/AkashRashmin/ActivityOne.git
+
+git push -u origin main
+>>>>>>> 8f4ae81a83d9094c8e37d1d96b20b036f93864a3
