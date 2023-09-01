@@ -1,0 +1,19 @@
+git config --global --list
+
+git init NewFolderName
+
+or
+
+git init
+
+git branch -m main
+
+git branch
+
+git add .
+
+git commit -m "This is the First Commit of the Branch"
+
+git remote add origin https://github.com/AkashRashmin/ActivityOne.git
+
+git push -u origin main
